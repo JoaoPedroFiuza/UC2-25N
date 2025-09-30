@@ -33,13 +33,40 @@ console.log("Voce recebe",t,"/",p,"por hora")
 // Imprimi no console da pagina a digitação do usario e depois aparece 
 
 // p horasTrabalhadas
-// t ganhosPorDia
-*/
+// t ganhosPorDia*/
+/*
 let nome 
 
-let idade
+let idade (Indefinido e String,String)
 
-console.log(typeof(nome),typeof(idade)) //Unexpected identifier pois não 
+console.log(typeof(nome),typeof(idade)) 
+
+idade = prompt("Qual sua idade ? ")
+
+nome = prompt("Qual seu nome ? ")
+
+console.log(typeof(nome), typeof(idade))
+
+console.log("Olá",nome, "você tem",idade, "anos")
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
