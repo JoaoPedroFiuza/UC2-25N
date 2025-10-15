@@ -74,17 +74,3 @@ const taref3 = prompt("Digite a terceira tarefa")
 
 let novaLista = listaDeTarefas.push(tarefa1,tarefa2,taref3)
 console.log(listaDeTarefas)*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
