@@ -46,4 +46,25 @@ else {
 
 //3º Exericio
 // Pede pro usario digitar o numero que esta em string e depois ele transforma em numero com o Number
-//
+// Aparecerá que o número passou no teste, 
+
+/*const dirigir = Number(prompt('Quero saber se você pode dirigir, mas primeiro me conte sua idade'))
+
+let dirigir1 = dirigir > 18
+
+if(dirigir1){console.log('Você pode drigir')}
+else{console.log('Não pode dirigir')}*/
+
+/*let turno = prompt('Você estuda em qual turno M,V,N ?')
+let turno1 = turno.toLowerCase()
+if(turno1 === 'm') {
+    console.log('Bom dia')
+} else if(turno1 === 'v') {
+    console.log('Boa tarde')
+} else if(turno1 === 'n'){
+    console.log('Boa noite')}
+else{'Turno não encontrado'}*/
+
+let turno = prompt('Digite ai M,V,N')
+switch(turno.toLowerCase())
+
