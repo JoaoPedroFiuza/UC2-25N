@@ -63,8 +63,7 @@ if(turno1 === 'm') {
     console.log('Boa tarde')
 } else if(turno1 === 'n'){
     console.log('Boa noite')}
-else{'Turno não encontrado'}*/
+else{'Turno não encontrado'}
 
 let turno = prompt('Digite ai M,V,N')
-switch(turno.toLowerCase())
-
+switch(turno.toLowerCase())*/
