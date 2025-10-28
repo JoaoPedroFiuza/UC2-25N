@@ -47,3 +47,4 @@ for (let i = 0; i < 6; i++) {
     if(maiorNumero < array[i]) { maiorNumero = array[i] }
 }
 console.log(maiorNumero)
+
