@@ -28,14 +28,45 @@ doisNumeros(2,3)
 let soma = function(){
     return 2 + 2
 }
-console.log('A soma é:'soma(2,2))*/
+console.log('A soma é:'soma(2,2))
 
 const determinaMonstro = (temPeleGelada, transformaComLuaCheia, brilhaAoSol, temSedeDeSangue) => {
 switch (determinaMonstro){
 case 'Vampiro':
     console.log()
+
 }
 }
+
+let num1 = Number(prompt('Digite um num'))
+let num2 = Number(prompt('Digite o num2'))
+function soma (num1,num2){
+    return num1 + num2
+}
+console.log('Número inseridos',num1,num2)
+console.log('soma',soma(num1,num2))
+
+
+
+let num1 = Number(prompt('Digite um num'))
+let num2 = Number(prompt('Digite o num2'))
+function soma (num1,num2){
+    return num1 * num2
+}
+console.log('Número inseridos',num1,num2)
+console.log('soma',soma(num1,num2))*/
+
+
+
+let num1 = Number(prompt('Digite um num'))
+let num2 = Number(prompt('Digite o num2'))
+function soma (num1,num2){
+    return num1 / num2
+}
+console.log('Número inseridos',num1,num2)
+console.log('soma',soma(num1,num2))
+
+
 
 
 
