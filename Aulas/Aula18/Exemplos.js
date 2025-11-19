@@ -32,7 +32,7 @@ for(let i = 0 ; i < matriz.length ; i++){
   for(let j=0;j < matriz[i].length ; j++){
     soma += matriz[i][j]
 console.log(matriz[i][j],)}}
-console.log(soma)*/
+console.log(soma)
 
 
 let matriz = [
@@ -49,8 +49,20 @@ for (let i = 0; i < matriz.length; i++) {
         console.log(matriz[i][j],)
     }
 }
-console.log('A soma de tudo da',soma)
+console.log('A soma de tudo da',soma)*/
 
+
+let matriz = [
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+    [0,0,0,0,0,0,0,0,0,0]
+]
 
 
 
